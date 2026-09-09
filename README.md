@@ -4,41 +4,51 @@
 
 I'm a postgraduate Computer Applications student with a strong interest in **software development, data analytics, backend technologies, and machine learning**. I enjoy building practical solutions that combine technology, data, and automation to solve real-world problems.
 
-I have hands-on experience through academic projects, internships, virtual job simulations, and technical coursework, with a focus on continuously expanding my skills and exploring new technologies.
+I'm always learning, experimenting with new technologies, and working on projects that turn ideas into practical solutions.
 
+---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript · C · C++
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,cpp,c" />
+</p>
 
-**Web & Backend:** HTML · CSS · Node.js · AngularJS · REST APIs
+**Data & Analytics:** Excel · Power BI
+**APIs & Backend:** Node.js · REST APIs
+**Currently Exploring:** AWS · Azure · Cloud Technologies · Machine Learning
 
-**Data & Databases:** MySQL · Excel · Power BI
+---
 
-## 🎯 What I'm Working Towards
+### 🌱 Currently Learning
 
-I'm currently focused on strengthening my foundation in **software development, databases, cloud technologies, and machine learning**, while building projects that demonstrate practical problem-solving and technical skills.
+* ☁️ Cloud technologies and AWS/Azure
+* 💻 Backend development
+* 🤖 Machine learning
+* 🗄️ Databases and data-driven applications
 
-My goal is to grow into a versatile technology professional who can work across **development, data, and backend systems**.
+---
 
+### 📊 GitHub Stats
 
-## 📫 Let's Connect
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simraa09&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
+</p>
 
-I'm always open to learning, collaborating on projects, and connecting with people in the tech community.
+---
 
-**Thanks for visiting my profile!** ⭐
+### 📫 Let's Connect
 
-<!--
-**Simraa09/Simraa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="www.linkedin.com/in/simraa-parkar-6781b8275">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:simraa.parkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+I'm always open to **learning, collaborating, and connecting with people in the tech community.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
