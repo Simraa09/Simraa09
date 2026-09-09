@@ -10,7 +10,9 @@ I have hands-on experience through academic projects, internships, virtual job s
 ### Tech Stack
 
 **Languages:** Python · JavaScript · C · C++
+
 **Web & Backend:** HTML · CSS · Node.js · AngularJS · REST APIs
+
 **Data & Databases:** MySQL · Excel · Power BI
 
 ## 🎯 What I'm Working Towards
