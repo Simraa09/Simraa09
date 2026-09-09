@@ -1,4 +1,4 @@
-# Hi, I'm Simraa 👋
+# Hi, I'm Simraa Parkar 👋
 
 ### MCA Student | Data Analytics | Machine Learning
 
@@ -19,7 +19,6 @@ I'm currently focused on strengthening my foundation in **software development, 
 
 My goal is to grow into a versatile technology professional who can work across **development, data, and backend systems**.
 
----
 
 ## 📫 Let's Connect
 
