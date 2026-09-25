@@ -1,44 +1,36 @@
 # Hi, I'm Simraa Parkar 👋
 
-### MCA Student | Data Analytics | Machine Learning
+### MCA Student | Data Analytics | Web Development
 
-I'm a postgraduate Computer Applications student with a strong interest in **software development, data analytics, backend technologies, and machine learning**. I enjoy building practical solutions that combine technology, data, and automation to solve real-world problems.
+I'm currently pursuing a **Master of Computer Applications (MCA)**, with interests spanning **data analytics, software development, and backend technologies**.
 
-I have hands-on experience through academic projects, internships, virtual job simulations, and technical coursework, with a focus on continuously expanding my skills and exploring new technologies.
+I enjoy working with data, building practical applications, and exploring how technology can be used to solve real-world problems. Through academic projects and internships, I've gained hands-on experience across **data analysis, automation, web development, and databases**.
 
+## 💻 Tech Stack
 
-### Tech Stack
-
-**Languages:** Python · JavaScript · C · C++
+**Languages:** Python · SQL · JavaScript · C · C++
 
 **Web & Backend:** HTML · CSS · Node.js · AngularJS · REST APIs
 
-**Data & Databases:** MySQL · Excel · Power BI
+**Data & Databases:** MySQL · Microsoft Excel · Power BI
 
-## 🎯 What I'm Working Towards
+## 🌱 Currently Exploring
 
-I'm currently focused on strengthening my foundation in **software development, databases, cloud technologies, and machine learning**, while building projects that demonstrate practical problem-solving and technical skills.
+I'm currently strengthening my skills in **software development, databases, data analytics, and machine learning**, while continuing to build projects and explore new technologies.
 
-My goal is to grow into a versatile technology professional who can work across **development, data, and backend systems**.
+## 🎯 Areas of Interest
 
+* 📊 Data Analytics & Visualization
+* 💻 Software & Web Development
+* 🗄️ Databases & Backend Technologies
+* 🤖 Machine Learning
+* ⚙️ Automation
 
 ## 📫 Let's Connect
 
-I'm always open to learning, collaborating on projects, and connecting with people in the tech community.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/simraa-parkar)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:simraa.parkar@gmail.com)
+
+I'm always open to learning, collaborating on projects, and connecting with others in the tech community.
 
 **Thanks for visiting my profile!** ⭐
-
-<!--
-**Simraa09/Simraa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
