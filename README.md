@@ -28,8 +28,13 @@ I'm currently strengthening my skills in **software development, databases, data
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/simraa-parkar)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:simraa.parkar@gmail.com)
+<a href="www.linkedin.com/in/simraa-parkar">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mailto:simraa.parkar@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+</a>
 
 I'm always open to learning, collaborating on projects, and connecting with others in the tech community.
 
