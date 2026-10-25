@@ -38,4 +38,4 @@ I'm currently strengthening my skills in **software development, databases, data
 
 I'm always open to learning, collaborating on projects, and connecting with others in the tech community.
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!** ✨
