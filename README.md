@@ -1,4 +1,4 @@
-# Hi, I'm Simraa Parkar 👋
+# Hi, I'm Simraa Parkar 
 
 ### MCA Student | Data Analytics | Web Development
 
